@@ -1,0 +1,5 @@
+1714418205502	Rename type 'ContributorData'
+1714419861339	Rename method 'insertGame'
+1714419873278	Rename method 'savetGame'
+1714422357030	Extract method 'findOrCreateContributor'
+1714493569542	Delete element
